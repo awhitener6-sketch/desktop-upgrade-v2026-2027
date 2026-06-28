@@ -3,7 +3,7 @@
 Note: ⚠️ Work-in-Progress ⚠️
 
 ## Description
-Planned upgrades for my desktop PC. I plan to transplant an ATX motherboard into a retro-style case modified to accept modern hardware. Cooling will be provided via AIO or water-cooling. I plan to add .STEP and SolidWorks files as I work through the designs. Please forgive any gaps; updates will come as I can finance the project.
+Planned upgrades for my desktop PC. I plan to transplant an ATX motherboard into a retro case modified to accept modern hardware. Cooling planned to be provided via AIO or water-cooling. I plan to add .STEP and SolidWorks files as I work through the designs. Please forgive any gaps; updates will come as I can finance the project.
 
 ## Design Intent
 This build is my proof-of-concept for future builds using up-to-date hardware. I currently have older hardware that I can use to design and modify the case and cooling solutions. This proof-of-concept will inform future builds of similar types, and will hopefully provide a template others may use to create similar builds, if they so choose.
