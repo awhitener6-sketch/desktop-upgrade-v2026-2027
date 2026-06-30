@@ -1,4 +1,4 @@
-# Project: desktop-upgrade-v2026-2027
+# Project: desktop-proof-of-concept-v2026-2027
 
 Note: ⚠️ Work-in-Progress ⚠️
 
